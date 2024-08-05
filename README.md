@@ -1,4 +1,4 @@
-# Blinkz
+# TranzXion
 
 <h2>ℹ️ Project info</h2>
 <div>

@@ -14,6 +14,9 @@
 
 #### To run the above code in your local machine,do the following *EASY* steps:(considering you are using a code editor!)
 
+NOTE: You need to have solana wallet address,and Phantom or Glow Browser Extension Installed.
+
+
 1)Clove this project in your local machine,by using:
 
 

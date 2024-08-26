@@ -17,7 +17,7 @@
 NOTE: You need to have solana wallet address,and Phantom or Glow Browser Extension Installed.
 
 
-1)Clove this project in your local machine,by using:
+1)Clone this project in your local machine,by using:
 
 
 ```bash
